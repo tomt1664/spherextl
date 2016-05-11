@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1462793946 source:/home/feps/chstf/tt0014/c/graph_beads/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<graph_beads.h>
+
+1462797958 /home/feps/chstf/tt0014/c/graph_beads//graph_beads.h
+
+1462794099 source:/home/feps/chstf/tt0014/c/graph_beads/graph_beads.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<cmath>
+	<graph_beads.h>
+
